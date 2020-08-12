@@ -7,3 +7,4 @@ This BitBar plugin does the following:
   * Calculates your life expectancy (as determined by WHO) to calculate a death of death
   * Displays how much of your day/month/year/life has elapsed in a numerical percentage and in a progress bar
 
+![Screenshot](/screenshot.png "Screenshot")
