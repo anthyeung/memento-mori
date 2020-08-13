@@ -8,9 +8,9 @@
 # <bitbar.author>Anthony Yeung</bitbar.author>
 # <bitbar.author.github>Anthony Yeung</bitbar.author.github>
 # <bitbar.desc>Memento Mori. Remember You Will Die.</bitbar.desc>
-# <bitbar.image>https://user-images.githubusercontent.com/5108459/43047918-c946f6bc-8de7-11e8-940a-036f44087b92.jpg</bitbar.image>
+# <bitbar.image>https://github.com/anthyeung/memento-mori/blob/master/screenshot.png</bitbar.image>
 # <bitbar.dependencies>bash</bitbar.dependencies>
-# <bitbar.abouturl>https://gist.github.com/mucahit/0bd2ace80ded22328d0c638715a4911b</bitbar.abouturl>
+# <bitbar.abouturl>https://github.com/anthyeung/memento-mori/blob/master/memento-mori.10m.sh</bitbar.abouturl>
 
 # -------------------------------------- #
 # LANGUAGE SETTING
