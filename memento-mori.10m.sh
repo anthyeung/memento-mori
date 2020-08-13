@@ -12,8 +12,11 @@
 # <bitbar.dependencies>bash</bitbar.dependencies>
 # <bitbar.abouturl>https://github.com/anthyeung/memento-mori/blob/master/memento-mori.10m.sh</bitbar.abouturl>
 
+
+
+
 # -------------------------------------- #
-# LANGUAGE SETTING
+# LANGUAGE
 # -------------------------------------- #
 export LANG="${LANG:-en_US.UTF-8}"
 
@@ -32,7 +35,7 @@ lifeexpectancyy=80
 # -------------------------------------- #
 BitBarDarkMode=${BitBarDarkMode}
 if [ "$BitBarDarkMode" ]; then
-  # OSX has Dark Mode enabled.
+  # OSX has Dark Mode enabled
   bitbar="size=14 color=white"
   bitbarsmall="size=12 color=white"
 else
