@@ -1,6 +1,6 @@
 # memento-mori
 ## About
-Memento Mori is a BitBar plugin that tells you how much of your life has passed you by.
+Memento Mori is a [BitBar](https://github.com/matryer/bitbar) plugin that tells you how much of your life has passed you by.
 
 Memento Mori is inspired by several macOS menubar applications, including other BitBar plugins, and also the application Progress Bar Mac OS X. 
 
