@@ -2,15 +2,15 @@
 ## About
 Memento Mori is a [BitBar](https://github.com/matryer/bitbar) plugin that tells you how much of your life has passed you by.
 
-Memento Mori is inspired by several macOS menubar applications, including other BitBar plugins, and also the application Progress Bar Mac OS X. 
+Memento Mori is based off of the [progress.1h.sh](https://github.com/matryer/bitbar-plugins/blob/master/Time/progress.1h.sh) code, also the menubar application [Progress Bar Mac OS X](https://www.progressbarosx.com/). 
 
 This BitBar plugin does the following:
-  * Calculates your life expectancy (as determined by WHO) to calculate a death of death
+  * Calculates a date of death
   * Displays how much of your day/month/year/life has elapsed in a numerical percentage and in a progress bar
 
 ## Screenshot
 ![Screenshot](/screenshot.png "Screenshot")
 
 ## How To Use
-1. Download BitBar plugin
-2. Download .sh file
+1. [Download](https://github.com/matryer/bitbar/releases) the BitBar plugin
+2. Download this .sh file
